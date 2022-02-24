@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegant apothegms in the speech of Lewis IV King of France to his revolted subjects</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49199</idno>
+            <idno type="STC">Wing L3095</idno>
+            <idno type="STC">ESTC R8669</idno>
+            <idno type="EEBO-CITATION">13534023</idno>
+            <idno type="OCLC">ocm 13534023</idno>
+            <idno type="VID">100013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100013)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elegant apothegms in the speech of Lewis IV King of France to his revolted subjects</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N. T.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A political satire in which Charles II and Charles I are represented by Lewis IV and his father, Charles the Simple.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Charles --  III, --  King of France, 879-929.</term>
+               <term>Louis --  IV, --  King of France, 921-954.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100013:1"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="1" facs="tcp:100013:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <head>Elegant Apothegms In the SPEECH of Lewis IV. King of France To His Revolted SUBJECTS.</head>
+            <p>BEfore I ſhall receive your Oath of Fidelity, (which I may juſtly demand, and You may juſtly take,) I let you know, you have re-call'd this Prince, who (during his Exile) had nothing elſe to do, but to Rule and Reign; And hereby I ſhall enforce you to believe, that You ſhall not make a Royal Throne a Paſſage into my Fathers Priſon; and after you have pre<g ref="char:EOLhyphen"/>ſented me with a Crown, to dare once to think of Chains and Irons. I know well, that this Diſcourſe will ſurpriſe You, and that You did not believe when you pre<g ref="char:EOLhyphen"/>ſented me with a Scepter, that I ſhould not rather have receiv'd it with Thanks, than Reprehenſions; But this Act is extraordinary in its Commencement, Progreſs, and Conſtitution; And it's Juſt that all Circumſtances ſhould be proportionable. Let it then ſuffice you, only to know, that if they be Ignorant in that Point, Subjects are to pay their Obedience, yet I am not ignorant to what degree Sovereigns may extend their Clemency, notwithſtanding there is difference betwixt them: Subjects have no limits for the firſt, but Sovereigns have for the latter. The People are oblig'd to the Princes Will, both by their Birth and Laws; They owe them their Goods, their Lives and Liberties: Their Prince owes them nothing but <hi>Juſtice,</hi> which can hardly Pardon <hi>Traytors.</hi> If theſe Truths and Maxims had been equally underſtood, and follow'd by the late King my Sovereign, and You his People, Affairs had not been in ſo ſad a condition, the State had not been reduc'd to ſuch Confuſion, the Provinces had not been Canoniz'd, <hi>Germany</hi> had not been ſo full of Faction, <hi>Italy</hi> had not been ſo divided; all the Cities of the Kingdom had not had ſo many Kings as they had new Governours, You had not been guitly of the Crime of <hi>Treaſon,</hi> in elevating an <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> to the <hi>Throne;</hi> his Tomb might have been bedeck'd with my Tears, his Hearſe cover'd with Trophies, and not with Chains; And (in ſhort) You might have been Happy and Innocent: But as His Clemency, and Your Re<g ref="char:EOLhyphen"/>bellion, were the ſole Cauſe of all thoſe Evils, ſo Your Obedience, and my Juſtice, are the only Means to make Reparation. Conſider a little, (I pray you,) that You fail not back into the ſame Eſtate wherein you were; You have violated all ſort of Rights in the Perſon of your King, Yon have rais'd a War againſt Him, Aſſaulted him, and afterwards Poiſon'd him; You have abuſed the Confidence he had in You, and deliver'd him Priſoner, with as great <hi>Treaſon</hi> as <hi>Injuſtice, Inſolency</hi> as <hi>Cruelty; Inſolency</hi> which was never offer'd to the Perſon of an ordinary Herald.</p>
+            <pb n="2" facs="tcp:100013:2"/>
+            <!-- PDF PAGE 80 -->
+            <p>Thus you have impudently abus'd your KING during a Treaty of Peace, led him from Priſon to Priſon for Five Years together. You have forc'd him to deſpiſe his <hi>Crown,</hi> and transfer'd it to another Hands than mine: To conclude, You have put Him to Death, and you have reduc'd Me to a ſtrict Neceſſity to ſhew my Mi<g ref="char:EOLhyphen"/>ſery beyond Sea, and ſeek my Safety by my Flight. It hath happend, that ſome<g ref="char:EOLhyphen"/>times Grandees of a Kingdom have Interpoſed Themſelves againſt a Tyrany, and deſtroy'd it; But it was never ſeen, that They Themſelves advanc'd a Tyrant to the Throne as You have done. In theſe kind of Crimes, the Abetter may be ſaid to be more Criminal, than He who receiv'd all the Fruit; For if every one of You had aſpir'd to ſet the Crown upon his own Head, You had been more excuſable, than to ſnatch it from your Lawful Prince, and place it upon the Head of a <hi>
+                  <g ref="char:V">Ʋ</g>ſurper.</hi> But You may ſay to Me, the Prince that boret it, was not able to ſupport it: To that I ſhall Anſwer, as I had the Honour to be his Son, and Subject, it belongs not to Me to determine what He could, or what He could not; Seeing He was my Father, I ought not to preſume to be His Judge, and He my King; I ought not to be ſo Impudent to Cenſure, much leſs Condemn His Actions, He being not oblig'd to give an account to any, but God alone: The ſame Reſpect I have for his Memory, You ought to have for his Perſon, He was Your King as well as Mine. Seeing then that KINGS are call'd <hi>Fathers of the People,</hi> their Subjects are oblig'd to have for Them a True Reſentment of Reſpect which their very Birth may infuſe into them: Beſides, Sovereigns are the true Images of God, that ſplendour of their Puiſſance, is a Beam of their Power; when you ſee the Comets appear, the Sun Eclips'd, the Thunder-bolts fall on Innocent Heads, we ſee the Floods drown whole Towns by their Innundations, the Sea paſſing its Bounds, ſwallowing whole Provinces in the bottom of the Deep, devour them up; Yea, when you ſee Earth-quakes make Kingdoms Tremble, Then it is permitted to the People to Murmure; Do you not diſcern the contrary in theſe occurrences, they re-double their Vows and Prayers, and that they are never more obedient to God, than at ſuch a time, as if God had forſaken the Providence of the Univerſe. And when it ſhall ſo happen, that Hea<g ref="char:EOLhyphen"/>ven gives you a Prince, (for puniſhment of your Sins,) under whoſe Reign, Policy and Prudence are not well obſerv'd, during whoſe Government Foreign and Civil Wars, devour all with cruel ravages, it belongs not then to You to Condemn your Sovereign; For is he Feeble? then you ought to ſuſtain him; Is He Unfortunate? then you ought to bemoan him; Is he Wicked? then you ought to look upon him as a Scourge ſent from Heaven, and to wait with Patience for a Remedy from that Hand which hath cauſed your Evil: For when a Prince Commands his Army, and gives Battle, if it ſo happens that the Soldiers perform not their Duty, that the Squadron yield, the main Body be broken; and in the end, after he hath done Miracles in his Perſon, He be yet conſtrain'd to Retreat from his Enemies, is it not the Prince that ſuffers the Diſgrace, and is reputed Vanquiſh'd, and bears the In<g ref="char:EOLhyphen"/>famy of the Day? notwithſtanding by his own particular Actions he hath merited to be a Conquerour? Seeing it thus, why will ye not bear with the Misfortunes of your Prince, as well as They do with Yours? Or to come ſomething nearer to the quick; why do you not regulate theſe Diſorders by your more exact Obedi<g ref="char:EOLhyphen"/>ence? The Prince alone is obvious in a Battle to the Infamy, Cowardiſe, Misfor<g ref="char:EOLhyphen"/>tunes of his whole Army, and You are Thouſands who are oblig'd to ſtrengthen the Authority of your King. Believe me, if all Subjects would be Loyal, no Kingdom could be Miſerable; And if all Princes thought on Severity more than Clemencie, there would not be ſo many Subjects Rebels: Moreover, if it were permitted to the capritious People, to take, and give Crowns when they fancied a Change, I conceive there is not a Shepherd but he might hope to be a King, and not a King but reduc'd to a Shepherd, ſo unruly are floating Judgments. But to ſpeak the truth to you, theſe things ought not to paſs, We are Your Maſters, and You ought not
+<pb n="3" facs="tcp:100013:2"/>
+               <!-- PDF PAGE 80 -->to become Ours. It is not that I am ignorant, that God diſpoſes of Crowns and Scepters as he pleaſes, and gives them to whom he liſts. I tell you in general, that Kings ought not to loſe their Crowns, but with their Lives, and that nothing can Diſpenſe Subjects from the Loyalty they owe to their Sovereigns, not any pre<g ref="char:EOLhyphen"/>tence to Authorize a Rebellion. If Sacred Perſons may not enjoy their particular Priviledges, they ſhall be expos'd to more miſeries than all ſorts of Men; their very Guards will appear to them as ſo many Enemies; their Thrones a Direful Preci<g ref="char:EOLhyphen"/>pice, rather than a place of Honour. A King of this kind, is no better than an Il<g ref="char:EOLhyphen"/>luſtrious Slave, when he ſhall have as many Maſters as Subjects. This Diſorder will quickly cauſe a Second: For when the Nobility of a Kingdom fail in their Duty to their Prince, Vaſſals and Tenants will forfeit their Fealty to Them, and then Re<g ref="char:EOLhyphen"/>bellion is communicated from the Grandees to the Commons, and ſo deſcending from one ſort to another, till Univerſal Confuſion devours all; Every one will Com<g ref="char:EOLhyphen"/>mand, and no perſon Obey, and ſo every one proves a Slave to his own Ambi<g ref="char:EOLhyphen"/>tion; This in effect is the moſt ſad condition a Kingdom can fall into. For my own part, when I conſider my ſelf to be the Son of a King, Succeſſor of ſo many Kings, and yet notwithſtanding that, I immediately ſucceed not my Father; This <hi>Idea</hi> imprints in Me a ſtrange Confuſion as towards You, and extreme Grief as to<g ref="char:EOLhyphen"/>wards my ſelf, when I reflect how the ſame Subjects, who Inchain'd CHARLES in Fetters, plac'd LEWIS on the Throne; The Malice which they bore to the Father, may it not eaſily fall upon the Son? And may not They fear that the Son will Revenge the Outrages againſt the Father? Yet (ſome may ſay,) preſent Loy<g ref="char:EOLhyphen"/>alty will blot out the Memory of their Antient Diſs-ſervice. This is certain, in the exact Rule, no Noble Action ought to paſs without its Recompence: Yet it's as really true, that no Crime ought to eſcape its Puniſhment. You have call'd Me to the Throne, it's true, but if you had not, You had been as Criminal againſt <hi>Lewis</hi> as <hi>Charles;</hi> Your Wives and Children are not exempt from theſe Crimes, ſeeing (without doubt) they made Vows for their Parents offending, and Prayers againſt their Prince. Whereas then I cannot puniſh you all, but that I muſt entertain you, It reſts at my choice, whether I would become a King without Subjects, or to Par<g ref="char:EOLhyphen"/>don You out of pure Grace. It may be, during your Lives ye may Repent you of your Antient Crimes, and become as Faithful as you were Diſobedient; Think not then, that by taking an Oath of Fidelity, that I am thereby engag'd not to do what becomes a King; No, I come to a Throne, where, if I ſhould be a Slave, I had rather be obſcur'd in a Priſon as my Father was, than not to Reign as a Sovereign. Thoſe People with whom Loyalty is Elective, forbear not to make their Kings Ab<g ref="char:EOLhyphen"/>ſolute, becauſe they could have no pretence of Juſtice to do otherwiſe. Judge then, if thoſe who hold their Crowns from Heaven, ought to acknowledge their Subjects for their Maſters. I find it far better to be a Glorious Subject, than a King diſ-obey'd. Deceive not your ſelves, the Value and Providence of a Prince are not ſufficient of themſelves to make a Kingdom happy; The Subjects ought to con<g ref="char:EOLhyphen"/>tribute their proportions, the Nobles to offer their Loyal Obedience, the People to follow their good Example. See what your Prince hath ſaid to You, in Lieu of Puniſhing, hath Pardon'd; Inſtead of Fighting with You, prepares to Defend You, Inſtead of Your Enemy, is Your Conſervator.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed by</hi> N. T. <hi>in the Year of our Lord,</hi> MDCLXXXV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
